@@ -1,16 +1,12 @@
-# toonflix
+# 강의주소
 
-A new Flutter project.
+[Flutter 강의](https://nomadcoders.co/flutter-for-beginners) <br>
 
-## Getting Started
+# 참고 Design
 
-This project is a starting point for a Flutter application.
+[Dribble](http://dribbble.com/shots/19858341-Finnancial-Mobile-IOS-App)
 
-A few resources to get you started if this is your first Flutter project:
+# Screen Shot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Origin](./lib/assets/origin.png)
+![Clone](./lib/assets/simulator.png)
